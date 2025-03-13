@@ -2,15 +2,15 @@ name: Docker Image C:
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [microsoft]
   pull_request:
-    branches: [ "master" ]
+    branches: [microsoft]
 
 jobs:
 
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: universal-latest
 
     steps:
     - uses: actions/checkout@v4
