@@ -1,5 +1,4 @@
-# Security Policy
-Cloudlab 2.0
+Audit Success	13/03/2025 14:53:22	Microsoft Windows security auditing.	4672	Special Logon
 ## Supported Versions
 Cloudlab 1.0
 Use this section to tell people about which versions of your project are
