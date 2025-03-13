@@ -10,7 +10,7 @@
 
 name: CI Black Duck security scan
 
-on:
+'\e1275789
   push:
     branches: [ "master" ]
   pull_request:
